@@ -15,7 +15,7 @@ Dont use short and guesable passwords to prevent bruteforce attacks. use 12 char
 # Installation Tutorial
 1. Clone the Repo
 ```python
-git clone https://github.com/NotReallySerious/Sudo_Password
+git clone https://github.com/NotReallySerious/sudo_password
 ```
 2. Install The Requirements
 ```python
